@@ -1,5 +1,6 @@
 # Nobel_Prize_Dashboard  
-![image](https://github.com/user-attachments/assets/8eafc431-5e83-477f-b804-289ffee4519a)
+![image](https://github.com/user-attachments/assets/0b9bcf73-0910-4473-ac33-8974d8c14250)
+
 
 
 This dashboard dynamically visualizes Nobel Prize data, allowing users to interact with filters and slicers to explore various aspects of the prizes, including trends, category distribution, country details, and gender distribution. Key components and their interaction features are outlined below:
